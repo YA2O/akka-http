@@ -1,4 +1,4 @@
-activator-akka-scala-seed
-=========================
+akka-http
+=========
 
-A minimal seed template for an Akka with Scala build 
+Playing with Akka-http.
